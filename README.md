@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Artem 👋
 
-<!--
-**Artemsuprun/Artemsuprun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer interested in building practical software, exploring systems programming, and understanding how things work under the hood.
 
-Here are some ideas to get you started:
+I enjoy taking projects from an initial idea to a working implementation, with an emphasis on clean architecture, problem-solving, and continuous improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+Languages: Python, JavaScript, C++
+Backend: Django, Django REST Framework, REST APIs
+Frontend: React
+Databases: PostgreSQL
+Other interests: Networking, machine learning, game development, software architecture
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/artem-suprun-8b1b68377
+
+Portfolio: www.blogsty.com/whoami/
