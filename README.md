@@ -14,6 +14,6 @@ Other interests: Networking, machine learning, game development, software archit
 
 ## Connect
 
-LinkedIn: <a href="www.linkedin.com/in/artem-suprun-8b1b68377" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/artem-suprun-8b1b68377/</a>
+LinkedIn: <a href="https://www.linkedin.com/in/artem-suprun-8b1b68377" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/artem-suprun-8b1b68377/</a>
 
-Portfolio: <a href="www.blogsty.com/whoami/" target="_blank" rel="noopener noreferrer">www.blogsty.com/whoami/</a>
+Portfolio: <a href="https://www.blogsty.com/whoami/" target="_blank" rel="noopener noreferrer">www.blogsty.com/whoami/</a>
