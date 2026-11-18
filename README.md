@@ -6,11 +6,15 @@ I enjoy taking projects from an initial idea to a working implementation, with a
 
 ## Technical Skills
 
-Languages: Python, JavaScript, C++
-Backend: Django, Django REST Framework, REST APIs
-Frontend: React
-Databases: PostgreSQL
-Other interests: Networking, machine learning, game development, software architecture
+**Languages:** Python, JavaScript, C++
+
+**Backend:** Django, Django REST Framework, REST APIs
+
+**Frontend:** React
+
+**Databases:** PostgreSQL
+
+**Other interests:** Networking, machine learning, game development, software architecture
 
 ## Connect
 
